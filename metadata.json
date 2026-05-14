@@ -1,0 +1,6 @@
+{
+  "name": "ATM DFA Validator",
+  "description": "An educational simulation of an ATM transaction system using Deterministic Finite Automata (DFA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
